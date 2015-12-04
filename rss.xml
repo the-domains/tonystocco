@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TonyStocco]]></title>
-        <description><![CDATA[TonyStocco]]></description>
+        <title><![CDATA[Tony Stocco]]></title>
+        <description><![CDATA[Tony Stocco]]></description>
         <link>https://thegrid.ai/tonystocco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 16:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 17:02:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonystocco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,13 @@
             <pubDate>Fri, 04 Dec 2015 16:55:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[First Post]]></title>
-            <description><![CDATA[<article><h1>First Post</h1><p>Testing the grid.</p></article>]]></description>
+            <title><![CDATA[Testing the grid.]]></title>
+            <description><![CDATA[<article><h1>Testing the grid.</h1><p>With just five weeks of football left on the NFL calendar, most players have already made their mark in terms of how observers will look back at their 2015 campaigns. It'll go down as a great year for DeAndre Hopkins and a terrible one for Ryan Tannehill. At the extremes, it's going to be exceedingly difficult for players to re-write their 2015 story.
+
+There are a fair number of players and coaches around the league, though, who could have their short- and long-term professional futures defined by what happens to them over the remainder of the regular season (and, if applicable, the playoffs to come). </p></article>]]></description>
             <link>https://thegrid.ai/tonystocco/first-post/index.html</link>
             <guid isPermaLink="false">4dfd5f53-f92d-4cb5-a3b6-875d1568c590</guid>
-            <pubDate>Fri, 04 Dec 2015 16:55:42 GMT</pubDate>
+            <pubDate>Fri, 04 Dec 2015 17:02:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
