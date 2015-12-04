@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TonyStocco]]></title>
         <description><![CDATA[TonyStocco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tonystocco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 16:55:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 16:56:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tonystocco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e74439b5-e2ea-4fdf-8b63-bcbfbf1682e2.jpg">]]></description>
+            <link>https://thegrid.ai/tonystocco/993b8e2f-c9ee-4bc6-85d1-bcbdfebfbe52/index.html</link>
+            <guid isPermaLink="false">993b8e2f-c9ee-4bc6-85d1-bcbdfebfbe52</guid>
+            <pubDate>Fri, 04 Dec 2015 16:55:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post]]></title>
             <description><![CDATA[<article><h1>First Post</h1><p>Testing the grid.</p></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/tonystocco/first-post/index.html</link>
             <guid isPermaLink="false">4dfd5f53-f92d-4cb5-a3b6-875d1568c590</guid>
             <pubDate>Fri, 04 Dec 2015 16:55:42 GMT</pubDate>
         </item>
