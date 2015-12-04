@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TonyStocco]]></title>
+        <description><![CDATA[TonyStocco]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 16:55:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>Testing the grid.</p></article>]]></description>
+            <link>undefinedfirst-post/index.html</link>
+            <guid isPermaLink="false">4dfd5f53-f92d-4cb5-a3b6-875d1568c590</guid>
+            <pubDate>Fri, 04 Dec 2015 16:55:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
